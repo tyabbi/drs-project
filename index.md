@@ -1,6 +1,6 @@
 ---
-title: Dancerush 
+title: Dancerush Guide
 layout: home
 ---
 
-test
+This is a guide for DANCERUSH STARDOM intended for beginners.
