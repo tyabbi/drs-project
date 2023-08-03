@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Dancerush Guide
 layout: home
 ---
 
