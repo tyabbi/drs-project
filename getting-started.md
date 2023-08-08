@@ -2,6 +2,7 @@
 title: Getting Started
 layout: home
 nav_order: 2
+has_children: true
 ---
 ## Getting Started
 {: .fs-9 }
@@ -16,6 +17,8 @@ If you like what you're playing after a few songs, move onto the Beginner sectio
 
 ## Table of Contents
 ---
-Why Play DANCERUSH
-Starting the Game
-Song Selection
+- Why Play DANCERUSH
+
+- Starting the Game
+
+- Song Selection
