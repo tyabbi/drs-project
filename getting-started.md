@@ -17,7 +17,7 @@ If you like what you're playing after a few songs, move onto the Beginner sectio
 
 ## Table of Contents
 ---
-- Why Play DANCERUSH
+- Why Play DANCERUSH?
 
 - Starting the Game
 
