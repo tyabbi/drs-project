@@ -18,7 +18,10 @@ If you like what you're playing after a few songs, move onto the Beginner sectio
 ## Table of Contents
 ---
 - [Why Play DANCERUSH?](why-play)
+{: .no_toc }
 
 - Starting the Game
+{: .no_toc }
 
 - Song Selection
+{: .no_toc }
