@@ -5,7 +5,7 @@ parent: Getting Started
 nav_order: 1
 ---
 ## Why Play DANCERUSH?
-{: .fs-9 }
+{: .fs-9  }
 
 Different people play DANCERUSH for different reasons. Here's a few that might resonate with you.
 
