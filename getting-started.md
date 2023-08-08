@@ -6,11 +6,16 @@ nav_order: 2
 ## Getting Started
 {: .fs-9 }
 
-Maybe one day, you went to an arcade and saw someone popping off. Maybe, it was a TikTok that caught your attention while scrolling. Whichever way got you interested, this section is for newcomers to DANCERUSH STARDOM.
+This section is for newcomers to DANCERUSH STARDOM.
 
-After reading this, you will hopefully be ready to start your first credit on a DRS cab.
+Starting out may be intimidating at first, especially for a game like this. After reading, hopefully you'll be step through your first credit on a DRS cab with no fear.
+
+If you like what you're playing after a few songs, move onto the Beginner section to start learning the basics.
 
 ---
 
 ## Table of Contents
 ---
+Why Play DANCERUSH
+Starting the Game
+Song Selection
