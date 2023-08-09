@@ -20,8 +20,8 @@ If you like what you're playing after a few songs, move onto the Beginner sectio
 - [Why Play DANCERUSH?](why-play)
 {: .no_toc }
 
-- Starting the Game
+- [Starting the Game](starting)
 {: .no_toc }
 
-- Song Selection
+- [Song Selection](song-select)
 {: .no_toc }
