@@ -14,14 +14,8 @@ Starting out may be intimidating at first, especially for a game like this. Afte
 If you like what you're playing after a few songs, move onto the Beginner section to start learning the basics.
 
 ---
-
-## Table of Contents
----
 - [Why Play DANCERUSH?](/docs/getting-started/why-play)
-{: .no_toc }
 
 - [Starting the Game](/docs/getting-started/starting)
-{: .no_toc }
 
 - [Song Selection](/docs/getting-started/song-select)
-{: .no_toc }
