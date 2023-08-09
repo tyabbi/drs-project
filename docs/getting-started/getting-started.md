@@ -17,11 +17,11 @@ If you like what you're playing after a few songs, move onto the Beginner sectio
 
 ## Table of Contents
 ---
-- [Why Play DANCERUSH?](why-play)
+- [Why Play DANCERUSH?](/docs/getting-started/why-play)
 {: .no_toc }
 
-- [Starting the Game](starting)
+- [Starting the Game](/docs/getting-started/starting)
 {: .no_toc }
 
-- [Song Selection](song-select)
+- [Song Selection](/docs/getting-started/song-select)
 {: .no_toc }
