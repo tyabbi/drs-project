@@ -5,3 +5,4 @@ parent: Getting Started
 nav_order: 3
 ---
 ## Song Selection
+{: .fs-9 }
