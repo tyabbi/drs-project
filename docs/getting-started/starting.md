@@ -17,11 +17,13 @@ nav_order: 2
 {: .fs-9 .no_toc }
 
 ## The e-Amusement Card
-An e-amusement card will let you save your progress. Notably, you will be able to track your high scores and have access to unlockable songs/limited time events. A lot of songs are locked from the start, so it's highly recommended to get a card if you want to dedicate time to this game.
+An e-Amusement card will let you save your progress. Notably, you will be able to track your high scores and have access to unlockable songs/limited time events. A lot of songs are locked from the start, so it's highly recommended to get a card if you want to dedicate time to this game.
 
 *insert card pic here*
 
-If your arcade has e-amusement service, they probably sell the cards. They are usually between $5 to $10.
+If your arcade has e-Amusement service, they probably sell the cards. Just ask for an "e-amuse card" or a "Konami card." They are usually between $5 to $10.
+
+Ideally, you would want to get a newer e-Amusement card with the Amusement IC logo on it since it works for games outside of the Bemani/Konami line of games. The newer versions of other cards (Aime, BANAPASS, NESiCA), which also have the Amusement IC logo, should also work. Otherwise, older e-Amusement IC cards should still work on DRS. 
 
 ## Scanning Your Card
 Scan your card on the cab's card reader shown below.
@@ -29,7 +31,14 @@ Scan your card on the cab's card reader shown below.
 *insert pic of cabinet here*
 
 ## Creating a Player Profile
+### Terms of Service
 
+### PIN Number
+Enter a 4-Digit pin number and enter it twice using the keypad. REMEMBER THIS PIN NUMBER since you will be using to login every time you play.
+
+### Dancer Name
+Enter the display name associated with your profile with the arrow keys to navigate and the start key to select.
+ 
 ## Selecting a Mode
 ### Number of Players
 First off, choose the number of players.
