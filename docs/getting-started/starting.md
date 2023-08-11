@@ -4,8 +4,17 @@ layout: home
 parent: Getting Started
 nav_order: 2
 ---
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ## Starting the Game
-{: .fs-9 }
+{: .fs-9 .no_toc }
 
 ## The e-Amusement Card
 An e-amusement card will let you save your progress. Notably, you will be able to track your high scores and have access to unlockable songs/limited time events. A lot of songs are locked from the start, so it's highly recommended to get a card if you want to dedicate time to this game.
