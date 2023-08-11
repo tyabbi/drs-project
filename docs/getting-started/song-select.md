@@ -4,8 +4,17 @@ layout: home
 parent: Getting Started
 nav_order: 3
 ---
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ## Song Selection
-{: .fs-9 }
+{: .fs-9 .no_toc }
 ## Navigating the Menu
 Use the up and down arrow keys to scroll through the list.
 
