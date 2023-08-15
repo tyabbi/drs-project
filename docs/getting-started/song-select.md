@@ -21,7 +21,23 @@ Use the up and down arrow keys to scroll through the list.
 ## What Song Should I Pick First?
 If you know a song in this game, I recommend starting out with that first. Knowing a song helps a lot with getting used to the game since you're familiar with the song's general rhythm.
 
+Otherwise, continue reading.
+
 ### Folders
+It's not a bad idea to hover around the Lesson or EASY folders.
+
+Lessons act as tutorials for the various steps and patterns in the game. They usually end with a recommended song to practice what you just learned. 
+
+Otherwise the remaining folders are categorized by:
+- Event (only if there is an ongoing limited-time event).
+- Genre:
+  - POPS (pop music)
+  - EDM
+  - Bemani
+- All Music:
+  - Sorted alphabetically by song title.
+  - Sorted alphabetically by artist name.
+- Levels 1-10.
 
 ### Recommended Songs
 
