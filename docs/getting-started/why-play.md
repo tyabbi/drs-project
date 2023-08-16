@@ -12,12 +12,12 @@ Different people play DANCERUSH for different reasons. Here's a few that might r
 ### Fun
 {: .fs-5 }
 
-Video games are meant to be fun, and this game is no different. Whether you're aiming for high scores,  or simply enjoying 
+Video games are meant to be fun, and this game is no different. Whether you're aiming for high scores or simply enjoying the experience of a rhythm game,  
 
 ### Exercise
 {: .fs-5 }
 
-Dancing is a great source of exercise.
+Dancing is a great source of cardio and a fun way to do it.
 
 ### Learning/Improving in Dancing
 {: .fs-5 }
@@ -28,3 +28,5 @@ Unlike other foot-based rhythm games (most of the time), you're actually dancing
 {: .fs-5 }
 
 If you regularly play, chances are you'll run into other players at your local arcade. DANCERUSH is a great way to make some new friends.
+
+This extends to online, too. 
