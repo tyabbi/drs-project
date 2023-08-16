@@ -4,9 +4,6 @@ layout: home
 parent: Beginner
 nav_order: 3
 ---
-## Beginner Tips
-{: .fs-9 .no_toc }
-
 <details open markdown="block">
   <summary>
     Table of contents
@@ -15,6 +12,9 @@ nav_order: 3
 1. TOC
 {:toc}
 </details>
+
+## Beginner Tips
+{: .fs-9 .no_toc }
 
 ## Tips for Improving
 
