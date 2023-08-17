@@ -52,6 +52,8 @@ Adjusts the position of the judgement line.
 
 ### Thickness of Notes
 
+Adjusts the visual height (top to bottom length) of notes.
+
 ### LED Brightness Settings
 
 Adjusts the brightness of the play area.
