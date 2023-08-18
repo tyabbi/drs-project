@@ -16,7 +16,7 @@ nav_order: 4
 ## Unlocking Songs
 {: .fs-9 .no_toc }
 
-There are a lot of songs that require unlocking. This section will cover specifically songs that can be unlocked at all times. Information on stamp songs and limited time event songs can be found here.
+There are a lot of songs that require unlocking. This section will cover the different kinds of unlockable songs.
 
 ## Star Unlocks
 All unlock songs require stars to unlock them.
@@ -46,8 +46,12 @@ Songs that need to be unlocked with stars each have a set of 3 Discount Missions
 
 Missions can be completed in any order.
 
+You can find a full list of unlockable songs here.
+
 ## Discover Missions
 Discover Mission songs are a special type of unlock song that requires completing a prerequisite mission to become visible and a set of 3 Discover Missions to be able to purchase. Once these songs are able to purchase, Discount Missions become available.
+
+You can find a full list of Discover Mission songs and their requirements here.
 
 ## EXTRA STAGE
 EXTRA STAGE is only available in STANDARD Mode. To access EXTRA STAGE, you must score a combined total of at least 180.000 points in your first two songs.
