@@ -32,6 +32,7 @@ Stars (★) act as the currency for unlocking songs in this game. Stars are gene
 | 60.000 - 79.999  | 3            | 4            | 18           |
 | 80.000 - 89.999  | 4            | 5            | 24           |
 | 90.000 - 100.000 | 5            | 6            | 30           |
+</div>
 
 The maximum number of Stars you can have at any time is 200.
 
