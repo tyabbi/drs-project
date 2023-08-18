@@ -25,6 +25,7 @@ All unlock songs require stars to unlock them.
 Stars (★) act as the currency for unlocking songs in this game. Stars are generally earned by playing the game. The amount of stars you earn depend on both score and mode. The distribution is as follows:
 
 <div class="code-example" markdown="1">
+
 | Score            | Light        | Standard     | Premium      |
 |:-----------------|:-------------|:-------------|:-------------|
 | 00.000 - 29.999  | 1            | 2            | 6            |
@@ -32,6 +33,7 @@ Stars (★) act as the currency for unlocking songs in this game. Stars are gene
 | 60.000 - 79.999  | 3            | 4            | 18           |
 | 80.000 - 89.999  | 4            | 5            | 24           |
 | 90.000 - 100.000 | 5            | 6            | 30           |
+
 </div>
 
 The maximum number of Stars you can have at any time is 200.
