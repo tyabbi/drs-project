@@ -43,7 +43,7 @@ Enter the display name associated with your profile with the arrow keys to navig
 ### Number of Players
 First off, choose the number of players.
 
-*insert player select pic here*
+![](../../assets/images/num-players.png)
 
 - 1 Player: The most common way to play. You get full access to the pad. Highly recommend playing alone when starting out.
 - 2 Players: Two players playing on the same pad. One player gets the front half of the pad, the other player plays on the back half.
@@ -54,7 +54,7 @@ You can also change the menu language on this page using the left and right arro
 ### Mode Select
 After choosing the number of players, choose what mode to play.
 
-*insert mode select pic here*
+![](../../assets/images/mode-select.png)
 
 - LIGHT/STANDARD:
   - LIGHT: In LIGHT Mode, you get two songs.
