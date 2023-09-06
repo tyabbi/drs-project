@@ -83,7 +83,7 @@ A full list of RANDOM CHALLENGE songs can be found here.
 
 ### Other Events
 The following are events that have only occurred once. A majority of these songs have been made accessible as Star Unlocks over time. Follow any of the links to learn more.
-- STARDOM Remix投票決定戦
+- STARDOM Remix touhyou ketteisen (STARDOM Remix投票決定戦)
 - The 8th KONAMI Arcade Championship Entry Songs
 - DANCERUSH STARDOM × DanceDanceRevolution SUMMER DANCE CAMP
 - Ichika no BEMANI touhyou senbatsusen 2019 (いちかのBEMANI投票選抜戦2019)
