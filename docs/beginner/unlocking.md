@@ -59,11 +59,12 @@ EXTRA STAGE is only available in STANDARD Mode. To access EXTRA STAGE, you must 
 Upon accessing EXTRA STAGE, a new EXTRA STAGE folder becomes available. This folder contains songs exclusive to EXTRA STAGE. Clearing an exclusive song makes it purchasable for play outside of EXTRA STAGE. 
 
 ## Limited Time Events
-Some songs are only available to unlock from different limited time events.
+Some songs are only available to unlock from different limited time events. This guide will cover the recurring/relevant events since most of the events only happened once. On top of that, a good amount of the event only songs are now accessible as regular Star Unlocks.
 
-A full list of event songs can be found here.
+A full list of events in detail can be found here.
 
 ### Events (SPARK FESTIVAL, GYM, etc.)
+During specific events, multiple songs can be unlocked during the duration of the event. The requirements to progress are slightly different for each event, but most events require a decent amount of play time to fully complete.
 
 For more details and full song lists from the notable events go to the following link:
 - SPARK FESTIVAL
@@ -71,9 +72,30 @@ For more details and full song lists from the notable events go to the following
 - DANCERUSH STARDOM 炎のDANCE合宿
 
 ### Stamp Bonus 
-For a limited time, some songs can be unlocked by obtaining 9 stamps within the alloted time period. Stamps are given on the 1st, 3rd, and 4th play sessions of the day, meaning you can only get a maximum of 3 stamps a day.
+For a limited time, some songs can be unlocked by obtaining 9 stamps within the allotted time period. Stamps are given on the 1st, 3rd, and 4th play sessions of the day, meaning you can only get a maximum of 3 stamps a day.
 
 A full list of Stamp Bonus songs can be found here.
 
 ### RANDOM CHALLENGE
+For a limited time, some songs are hidden behind the RANDOM SELECT song option. Clearing these kinds of songs will make it appear as a DISCOVER MISSION, which can then be subsequently unlocked after fulfilling its prerequisities.
 
+A full list of RANDOM CHALLENGE songs can be found here.
+
+### Other Events
+The following are events that have only occurred once. A majority of these songs have been made accessible as Star Unlocks over time. Follow any of the links to learn more.
+- STARDOM Remix投票決定戦
+- The 8th KONAMI Arcade Championship Entry Songs
+- DANCERUSH STARDOM × DanceDanceRevolution SUMMER DANCE CAMP
+- Ichika no BEMANI touhyou senbatsusen 2019 (いちかのBEMANI投票選抜戦2019)
+- DANCE GUIDE AUDITION
+- The 9th KONAMI Arcade Championship Entry Songs
+- Ichika no BEMANI chou janken taikai 2020 (いちかのBEMANI超じゃんけん大会2020)
+- Maishuu! Ichika no chou BEMANI rush 2020 (毎週！いちかの超BEMANIラッシュ2020)
+- BEMANI MusiQ FES
+- The 10th KONAMI Arcade Championship Entry Songs
+- Busou Shinki BC×BEMANI kadou kinen campaign (武装神姫BC×BEMANI 稼働記念キャンペーン)
+- BPL ouen gakkyoku kaikin stamp rally (BPL応援 楽曲解禁スタンプラリー)
+- BEMANI 2021 manatsu no utagassen 5 ban shoubu (BEMANI 2021真夏の歌合戦5番勝負)
+- DANCE aROUND × DANCERUSH STARDOM DANCE Tag
+- Ichika no gochamaze Mix UP! (いちかのごちゃまぜMix UP！)
+- KONAMI Arcade Championship (2023) Entry Song
