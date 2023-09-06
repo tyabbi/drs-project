@@ -57,3 +57,23 @@ You can find a full list of Discover Mission songs and their requirements here.
 EXTRA STAGE is only available in STANDARD Mode. To access EXTRA STAGE, you must score a combined total of at least 180.000 points in your first two songs.
 
 Upon accessing EXTRA STAGE, a new EXTRA STAGE folder becomes available. This folder contains songs exclusive to EXTRA STAGE. Clearing an exclusive song makes it purchasable for play outside of EXTRA STAGE. 
+
+## Limited Time Events
+Some songs are only available to unlock from different limited time events.
+
+A full list of event songs can be found here.
+
+### Events (SPARK FESTIVAL, GYM, etc.)
+
+For more details and full song lists from the notable events go to the following link:
+SPARK FESTIVAL
+DANCERUSH STARDOM GYM
+DANCERUSH STARDOM 炎のDANCE合宿
+
+### Stamp Bonus 
+For a limited time, some songs can be unlocked by obtaining 9 stamps within the alloted time period. Stamps are given on the 1st, 3rd, and 4th play sessions of the day, meaning you can only get a maximum of 3 stamps a day.
+
+A full list of Stamp Bonus songs can be found here.
+
+### RANDOM CHALLENGE
+
