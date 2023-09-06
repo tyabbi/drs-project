@@ -66,9 +66,9 @@ A full list of event songs can be found here.
 ### Events (SPARK FESTIVAL, GYM, etc.)
 
 For more details and full song lists from the notable events go to the following link:
-SPARK FESTIVAL
-DANCERUSH STARDOM GYM
-DANCERUSH STARDOM 炎のDANCE合宿
+- SPARK FESTIVAL
+- DANCERUSH STARDOM GYM
+- DANCERUSH STARDOM 炎のDANCE合宿
 
 ### Stamp Bonus 
 For a limited time, some songs can be unlocked by obtaining 9 stamps within the alloted time period. Stamps are given on the 1st, 3rd, and 4th play sessions of the day, meaning you can only get a maximum of 3 stamps a day.
