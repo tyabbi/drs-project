@@ -65,7 +65,7 @@ Some songs are only available to unlock from different limited time events. This
 
 A full list of events in detail can be found [here](https://remywiki.com/AC_DRS#DANCERUSH_STARDOM_events).
 
-### Events (SPARK FESTIVAL, GYM, etc.)
+### Events (SPARK FESTIVAL, GYM, DANCERUSH STARDOM 炎のDANCE合宿)
 During specific events, multiple songs can be unlocked during the duration of the event. The requirements to progress are slightly different for each event, but most events require a decent amount of play time to fully complete.
 
 For more details and full song lists from the notable events go to the following link:
