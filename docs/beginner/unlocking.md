@@ -46,42 +46,42 @@ Songs that need to be unlocked with stars each have a set of 3 Discount Missions
 
 Missions can be completed in any order.
 
-You can find a full list of unlockable songs [here]({{https://remywiki.com/AC_DRS/Stars_Unlocks}}/).
+You can find a full list of unlockable songs [here](https://remywiki.com/AC_DRS/Stars_Unlocks).
 
 ## Discover Missions
 Discover Mission songs are a special type of unlock song that requires completing a prerequisite mission to become visible and a set of 3 Discover Missions to be able to purchase. Once these songs are able to purchase, Discount Missions become available.
 
-You can find a full list of Discover Mission songs and their requirements [here]({{https://remywiki.com/AC_DRS/Discover_Missions}}/).
+You can find a full list of Discover Mission songs and their requirements [here](https://remywiki.com/AC_DRS/Discover_Missions).
 
 ## EXTRA STAGE
 EXTRA STAGE is only available in STANDARD Mode. To access EXTRA STAGE, you must score a combined total of at least 180.000 points in your first two songs.
 
 Upon accessing EXTRA STAGE, a new EXTRA STAGE folder becomes available. This folder contains songs exclusive to EXTRA STAGE. Clearing an exclusive song makes it purchasable for play outside of EXTRA STAGE. 
 
-A full list of EXTRA STAGE songs can be found [here]({{https://remywiki.com/AC_DRS/Stars_Unlocks#EXTRA_STAGE_Songs}}/).
+A full list of EXTRA STAGE songs can be found [here](https://remywiki.com/AC_DRS/Stars_Unlocks#EXTRA_STAGE_Songs).
 
 ## Limited Time Events
 Some songs are only available to unlock from different limited time events. This guide will cover the recurring/relevant events since most of the events only happened once. On top of that, a good amount of the event only songs are now accessible as regular Star Unlocks.
 
-A full list of events in detail can be found [here]({{https://remywiki.com/AC_DRS#DANCERUSH_STARDOM_events}}/).
+A full list of events in detail can be found [here](https://remywiki.com/AC_DRS#DANCERUSH_STARDOM_events).
 
 ### Events (SPARK FESTIVAL, GYM, etc.)
 During specific events, multiple songs can be unlocked during the duration of the event. The requirements to progress are slightly different for each event, but most events require a decent amount of play time to fully complete.
 
 For more details and full song lists from the notable events go to the following link:
-- [SPARK FESTIVAL]({{https://remywiki.com/AC_DRS#SPARK_FESTIVAL}}/)
-- [DANCERUSH STARDOM GYM]({{https://remywiki.com/AC_DRS#DANCERUSH_STARDOM_GYM}}/)
-- [DANCERUSH STARDOM Honoo no DANCE gasshuku (DANCERUSH STARDOM 炎のDANCE合宿)]({{https://remywiki.com/AC_DRS#DANCERUSH_STARDOM_Honoo_no_DANCE_gasshuku}}/)
+- [SPARK FESTIVAL](https://remywiki.com/AC_DRS#SPARK_FESTIVAL)
+- [DANCERUSH STARDOM GYM](https://remywiki.com/AC_DRS#DANCERUSH_STARDOM_GYM)
+- [DANCERUSH STARDOM Honoo no DANCE gasshuku (DANCERUSH STARDOM 炎のDANCE合宿)](https://remywiki.com/AC_DRS#DANCERUSH_STARDOM_Honoo_no_DANCE_gasshuku)
 
 ### Stamp Bonus 
 For a limited time, some songs can be unlocked by obtaining 9 stamps within the allotted time period. Stamps are given on the 1st, 3rd, and 4th play sessions of the day, meaning you can only get a maximum of 3 stamps a day.
 
-A full list of Stamp Bonus songs can be found [here]({{https://remywiki.com/AC_DRS#Stamp_Bonus}}/).
+A full list of Stamp Bonus songs can be found [here](https://remywiki.com/AC_DRS#Stamp_Bonus).
 
 ### RANDOM CHALLENGE
 For a limited time, some songs are hidden behind the RANDOM SELECT song option. Clearing these kinds of songs will make it appear as a DISCOVER MISSION, which can then be subsequently unlocked after fulfilling its prerequisities.
 
-A full list of RANDOM CHALLENGE songs can be found [here]({{https://remywiki.com/AC_DRS#RANDOM_CHALLENGE}}/).
+A full list of RANDOM CHALLENGE songs can be found [here](https://remywiki.com/AC_DRS#RANDOM_CHALLENGE).
 
 ### Other Events
 The following are events that have only occurred once. A majority of these songs have been made accessible as Star Unlocks over time. Follow any of the links to learn more.
