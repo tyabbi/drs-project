@@ -61,7 +61,12 @@ rm pic here
 
 This is the foundation of the game. Get used to properly doing a running man. It will help a lot with flowing into other steps.
 
-# Criss Cross 
+Recommended Songs:
+- Small Steps
+- Summery
+- Party Jumpin'
+
+## Criss Cross 
 x pic here
 
 A set of SLIDE notes that swipes inward.
@@ -69,4 +74,5 @@ A set of SLIDE notes that swipes inward.
 ## T-Step
 t pic here
 
-A SLIDE note with one foot accompanied by steps with the other foot. 
+A SLIDE note with one foot accompanied by steps with the other foot.
+
